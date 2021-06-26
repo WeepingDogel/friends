@@ -1,0 +1,64 @@
+[Main]
+backurl = "https://weepingdogel.github.io/"
+[friends]
+number = 12
+    [friends.1]
+    Avatar = "https://avatars.githubusercontent.com/u/440661"
+    Title = "依云's Blog"
+    URL = "https://blog.lilydjwg.me/"
+    Bio = "Happy coding, happy living!"
+    [friends.2]
+    Avatar = "https://avatars.githubusercontent.com/u/34574198"
+    Title = "李皓奇"
+    URL = "https://liolok.com/zhs/"
+    Bio = "岂有文章倾社稷，从来佞幸覆乾坤。"
+    [friends.3]
+    Avatar = "https://avatars.githubusercontent.com/u/32677240"
+    Title = "Esonhugh's Blog"
+    URL = "https://esonhugh.me/"
+    Bio = "__清闲悠哉快活日，俯首不问世间事。"
+    [friends.4]
+    Avatar = "https://avatars.githubusercontent.com/u/70447830"
+    Title = "CRZY ZONE"
+    URL = "https://crzy233.github.io/"
+    Bio = "_无可奉告。"
+    [friends.5]
+    Avatar = "https://avatars.githubusercontent.com/u/54034088"
+    Title = "mushin2k的博客"
+    URL = "https://mushin2k.github.io/"
+    Bio = "一般刷机爱好者兼音游休闲玩家，偶尔玩文具，博客不常更新 音ゲー大好き（"
+    [friends.6]
+    Avatar = "https://avatars.githubusercontent.com/u/61851016"
+    Title = "Piggy's Blog"
+    URL = "https://blog.piggy.moe/"
+    Bio = "Piggy’s random stuff"
+    [friends.7]
+    Avatar = "https://avatars.githubusercontent.com/u/54669781"
+    Title = "欠陥電気の摸鱼小池"
+    URL = "https://blog.atri.tk/"
+    Bio = "划水摸鱼最快乐啦～写blog什么的才不要呢"
+    [friends.8]
+    Avatar = "https://avatars.githubusercontent.com/u/59352355"
+    Title = "111的 Blog"
+    URL = "https://lzwsb.github.io/"
+    Bio = " "
+    [friends.9]
+    Avatar = "https://avatars.githubusercontent.com/u/54489701"
+    Title = "zhyjc6's Blog"
+    URL = "https://zhyjc6.github.io/"
+    Bio = " "
+    [friends.10]
+    Avatar = "https://avatars.githubusercontent.com/u/78380885"
+    Title = "安井齐桜的文学小屋"
+    URL = "https://zangjiucheng.wixsite.com/website-project"
+    Bio = "《常識》不可不讀也。"
+    [friends.11]
+    Avatar = "https://avatars.githubusercontent.com/u/12439321"
+    Title = "⑨BIE"
+    URL = "https://9bie.org/"
+    Bio = "伪技术宅的迷之地"
+    [friends.12]
+    Avatar = "https://avatars.githubusercontent.com/u/17158086"
+    Title = "YuutaW 的自言语"
+    URL = "https://blog.yuuta.moe/"
+    Bio = "一个萌新在探索世界的道路上留下的些许见解"
