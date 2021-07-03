@@ -4,7 +4,7 @@
 # 使用
 ## 直接 git 到本地即可
 ```
-$ git clone 
+$ git clone https://github.com/WeepingDogel/friends.git
 ```
 ## 关于配置文件
 
