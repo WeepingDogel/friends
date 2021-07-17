@@ -6,9 +6,9 @@ By WeepingDogel
 '''
 class KnowingFriends():
     def LoadFriends(self,filename):
-        # The informations of friends will be stored in a toml file.
+        # The information of friends will be stored in a toml file.
         # So this function is the first step.
-        # The file will be loaded and formated as toml.
+        # The file will be loaded and formatted as toml.
         friendsList = toml.load(filename)
         return friendsList
 class Process():
