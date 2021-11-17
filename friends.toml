@@ -1,7 +1,7 @@
 [Main]
 backurl = "https://weepingdogel.github.io/"
 [friends]
-number = 13
+number = 14
     [friends.1]
     Avatar = "https://avatars.githubusercontent.com/u/440661"
     Title = "依云's Blog"
@@ -67,4 +67,8 @@ number = 13
     Title = "血牙的个人博客"
     URL = "https://xueya.me/"
     Bio = "血牙，04年，严重中二病"
-    
+    [friends.14]
+    Avatar = "https://avatars.githubusercontent.com/u/36183551"
+    Title = "欧式的Blog"
+    URL = "https://blog.ous50.moe"
+    Bio = "来呀，来玩呀~"
