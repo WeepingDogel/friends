@@ -1,7 +1,7 @@
 [Main]
 backurl = "https://weepingdogel.github.io/"
 [friends]
-number = 14
+number = 16
     [friends.1]
     Avatar = "https://avatars.githubusercontent.com/u/440661"
     Title = "依云's Blog"
@@ -72,3 +72,13 @@ number = 14
     Title = "欧式的Blog"
     URL = "https://blog.ous50.moe"
     Bio = "来呀，来玩呀~"
+    [friends.15]
+    Avatar = "https://avatars.githubusercontent.com/u/36557882"
+    Title = "我🐎没了"
+    URL = "https://kekeimiku.github.io/"
+    Bio = "Everything is game."
+    [friends.16]
+    Avatar = "https://avatars.githubusercontent.com/u/36188023"
+    Title = "KiraPGR's Blog"
+    URL = "https://kira-pgr.github.io/"
+    Bio = "/* Life Runs On Code */"
